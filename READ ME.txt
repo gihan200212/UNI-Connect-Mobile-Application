@@ -1,0 +1,26 @@
+# UNI Connect – Mobile Application UI/UX Redesign
+
+## Module
+Human Computer Interaction (HCI)
+
+## Project Overview
+This project is a New designed mobile application UI created using Figma.
+The aim is to improve usability, accessibility, and overall user experience
+for university students.
+
+## Tools Used
+- Figma
+- GitHub
+
+## Project Contents
+- Figma design file (.fig)
+- Exported design screens (PDF)
+- Prototype link
+- Project report
+
+## Figma Prototype
+👉 https://www.figma.com/proto/zsIgRSzFWUhzWoiElUz9SH/Untitled?node-id=0-1&t=kUlQYRfvqriO0hVI-1
+
+## Student Details
+Name: Gihan Weerasekara  
+Module: Human Computer Interaction
